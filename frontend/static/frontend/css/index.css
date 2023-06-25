@@ -1,0 +1,11 @@
+#app {
+    background-color: rgb(29, 135, 100);
+}
+
+#app ,p {
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 500;
+    color: #e9dede;
+    text-align: center;
+}
